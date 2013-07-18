@@ -1,0 +1,72 @@
+/* Stick Footer Styling */
+html,
+body {
+	height: 100%;
+	#body-wrap {
+		min-height: 100%;
+		height: auto !important;
+		height: 100%;
+		/* Negative indent footer by it's height */
+		margin: 0 auto -55px;
+	}
+
+	#push,
+	footer {
+		height: 55px;
+	}
+	footer {
+		background-color: #333;
+	}
+}
+/* end stick footer */
+
+#footer-content {
+	color: #ffffff;
+	margin-top: 14px;
+	p, ul, ol, dl {
+		margin: 0;
+	}
+}
+
+#header {
+	left: 0;
+	position: absolute;
+	right: 0;
+	z-index: 11;
+}
+
+[class*="foundicon-"] {
+	font-size: 36px;
+}
+
+/* spacing helper */
+.space10 {
+    height: 10px;
+}
+.space20 {
+    height: 20px;
+}
+.space30 {
+    height: 30px;
+}
+.space40 {
+    height: 40px;
+}
+.space50 {
+    height: 50px;
+}
+.space60 {
+    height: 60px;
+}
+.space70 {
+    height: 70px;
+}
+.space80 {
+	height: 80px;
+}
+.space90 {
+	height: 90px;
+}
+.space100 {
+	height: 100px;
+}

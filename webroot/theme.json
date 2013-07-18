@@ -1,0 +1,19 @@
+{
+	"name" : "Croogo16",
+	"description" : "Croogo Initial template - Using Foundation",
+	"screenshot" : "screenshot.png",
+
+	"author" : " Xintesa",
+	"authorUrl" : "http://xintesa.com",
+
+	"menus" : [
+		"main",
+		"footer"
+		],
+
+	"regions" : [
+		"block1",
+		"block2",
+		"block3"
+		]
+}

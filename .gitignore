@@ -1,0 +1,21 @@
+# auto generated files
+webroot/.sass-cache
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+Icon?
+ehthumbs.db
+Thumbs.db
+*/css/app.css
+*/css/main.css
+*/css/styles.css
+*/css/normalize.css
+*/js/foundation/*
+*/js/foundation/foundation.*
+*/js/vendor/*
+*/js/base/*
+*.swp
+*.zip
+*.rar
