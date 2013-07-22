@@ -1,6 +1,3 @@
-Croogo16 - Base Template for Croogo V1.6
-============
-
 A Simple/basic template for developing [Croogo v1.6](http://www.croogo.org) themes using [zurb-foundation](http://foundation.zurb.com/)
 
 - using sass foundation
@@ -23,3 +20,6 @@ hope this template can help make all the basic stuff created faster and get on w
 
 Cheers,
 #-Q-
+
+
+note: initial template created by -Q-
