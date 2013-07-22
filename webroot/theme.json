@@ -1,10 +1,9 @@
 {
-	"name" : "Croogo16",
-	"description" : "Croogo Initial template - Using Foundation",
+	"name" : "FlatUI",
+	"description" : "Initial template - Using Foundation",
 	"screenshot" : "screenshot.png",
 
-	"author" : " Xintesa",
-	"authorUrl" : "http://xintesa.com",
+	"author" : "dimboy",
 
 	"menus" : [
 		"main",
